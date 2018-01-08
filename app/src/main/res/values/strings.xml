@@ -1,0 +1,55 @@
+<resources>
+    <string name="app_name">STMIK AKAKOM Yogyakarta</string>
+    <string name="title_main">AKAKOM MOBILE</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="ka_info">Program studi Komputerisasi Akuntansi merupakan program studi yang berusia relatif muda dan dikembangkan berdasarkan kebutuhan tenaga kerja pada industri yang menginginkan adanya tenaga kerja yang mempunyai skill di bidang komputer serta memahami akuntansi sebagai bahasa bisnis.</string>
+    <string name="ti_info">Program Studi Teknik Informatika (PSTI) merupakan salah satu cabang dari pohon ilmu Informatika dan Komputer, yang turut mengembangkan bidang ilmu teknologi informasi. Adapun penekanannya pada aspek penyimpanan, pengolahan, dan penyampaian informasi secara algoritmik dengan bantuan komputer. Tiga (3) paradigma yang digunakan adalah: paradigma teori, paradigma abstraksi, dan paradigma perancangan. Ketiga paradigma ini saling melengkapi dan kait-mengait antara satu dengan yang lain. Secara umum ketiga paradigma tersebut (teori, abstraksi, perancangan) merupakan prinsip dasar dari masing-masing bidang ilmu yang diwakili matematika, ilmu alam, teknik).</string>
+    <string name="si_info">Program Studi Sistem Informasi merupakan salah satu cabang dari pohon ilmu Informatika dan Komputer. Program ini dikhususkan untuk menggarap sistem informasi dari berbagai sisi. Hal ini meliputi bagaimana data dapat disimpan dengan baik, bagaimana  informasi dapat diperoleh dengan baik, dan bagaimana supaya informasi yang dihasilkan dapat memberikan manfaat bagi yang menggunakannya, baik perusahaan, maupun perorangan.</string>
+    <string name="tk_info">Dilandasi kesadaran potensi pesatnya kemajuan teknologi elektronika, program studi Teknik Komputer jenjang D3 merupakan bagian Jurusan Teknik Komputer yang mengemban amanat melatih dan menghasilkan ahli madya yang berkecimpung dalam lingkup teknik elektronika, microprocessor, instrumentasi kendali, dan telekomunikasi. Peran ahli madya bidang ini antara lain untuk menjembatani level perancang dan pengguna teknologi, melakukan supervisi proses produksi, melakukan instalasi-instalasi systems dan networking untuk berbagai keperluan mulai dari perkantoran, housing, hotels, medis, sarana navigasi, hingga entertainment support.</string>
+    <string name="mi_info">Jurusan/program studi Manajemen Informatika dengan jenjang D3 diharapkan dapat memberikan kontribusi untuk mewujudkan kebutuhan tenaga-tenaga siap pakai pada semua bidang TI. Dalam mewujudkan harapan tersebut maka jurusan/program studi Manajemen Informatika membuat kurikulum yang berbasis kompetensi.</string>
+
+    <string name="visi">VISI</string>
+    <string name="isi_visi">STMIK AKAKOM mempunyai visi untuk menjadi perguruan tinggi unggulan dalam bidang teknologi informasi yang bertumpu pada nilai-nilai dan etika kehidupan yang baik, benar dan universal untuk mewujudkan peningkatan taraf hidup bangsa.</string>
+    <string name="misi">MISI</string>
+    <string name="isi_misi">Adapun misi STMIK AKAKOM adalah melaksanakan Tridharma Perguruan Tinggi dalam bidang komputer dan teknologi informasi yang berorientasi kepada perkembangan ilmu pengetahuan, teknologi dan seni.</string>
+    <string name="tujuan">TUJUAN</string>
+    <string name="isi_tujuan">Tujuan yang ingin dicapai STMIK AKAKOM adalah :
+1.  Terselenggaranya sistem pendidikan yang tanggap terhadap perkembangan ilmu dan teknologi informasi dengan memadukan keunggulan akademik dan mutu profesi.
+2.   Terselenggaranya penelitian untuk menghasilkan temuan baru, rekayasa, dan kajian yang berguna bagi pemberdayaan teknologi informasi dan hidup bermasyarakat.
+3.  Pemasyarakatan teknologi informasi sebagai prasarana kehidupan modern bangsa Indonesia.
+4.  Terbentuknya sumberdaya manusia yang memiliki kompetensi akademis dan atau profesional, yang beriman, bertakwa, mandiri, kreatif, dan berkemampuan meningkatkan kualitasnya secara berkelanjutan.
+5.   Terwujudnya masyarakat modern yang berperan aktif dalam pembangunan nasional serta dalam membentuk masyarakat yang maju, adil dan sejahtera.
+</string>
+
+    <string name="profile">Profile STMIK AKAKOM</string>
+    <string name="isi_profile1">Dalam abad ke-20 ini dunia banyak diwarnai dengan berbagai kemajuan secara menakjubkan yang telah diciptakan oleh umat manusia, baik dibidang ilmu maupun teknologi. Menanggapi kondisi zaman seperti tersebut di atas, pada tanggal 30 Juni 1979 didirikan sebuah yayasan dengan nama Yayasan Pendidikan Widya Bakti, yang bertujuan mengembangkan dan menyebarluaskan informatika dan teknologi komputer di kalangan masyarakat indonesia melalui usaha pendidikan yang sistematis dan ilmiah. Yayasan tersebut mengelola sebuah akademi yang bernama Akademi Aplikasi Komputer, disingkat AKAKOM.</string>
+    <string name="isi_profile2">Terhitung mulai 1 Maret 1983, Akademi Aplikasi Komputer(AKAKOM), diubah menjadi Akademi Komputer dan Informatika AKAKOM. Selanjutnya terhitung mulai tanggal 2 Mei 1985, nama Akademi Komputer dan Informatika AKAKOM diubah dan dibakukan menjadi Akademi Manajemen Informatika dan Komputer(AMIK)AKAKOM.</string>
+    <string name="isi_profile3">Agar lembaga tersebut mampu menghasilkan tenaga-tenaga profesional maupun akademik yang lebih berbobot dalam bidang informatika dan komputer, maka sejak tanggal 8 Juni 1992, berdasarkan Surat Keputusan Direktorat Jendral Pendidikan Tinggi Departemen Pendidikan dan Kebudayaan RI Nomor 262/DIKTI/Kep/1992, AMIK AKAKOM diubah bentuknya menjadi Sekolah Tinggi Manajemen Informatika dan Komputer (STMIK) AKAKOM yang membuka program sarjana dan program diploma.</string>
+    <string name="isi_profile4">Saat ini program sarjana mempunyai program stusi Teknik Informatika dan Sistem Informasi dengan status akreditasi B dan pada program diploma mempunyai 3 program studi yaitu Manajemen Informatika (status Akreditasi B), Teknik Komputer(status Akreditasi B), dan Komputerisasi Akuntansi (status Akreditasi B).</string>
+
+
+    <string name="action_settings">Settings</string>
+
+    <string name="judul_berita1">Pendaftaran PMB TA 2018/2019</string>
+    <string name="judul_berita2">Upacara dalam rangka memperingati Hari Kesetiakawanan Nasional</string>
+    <string name="judul_berita3">Kunjungan Industri SMK Budi Utomo Jombang</string>
+    <string name="judul_berita4">Selamat kepada tim Rackspira</string>
+    <string name="judul_berita5">Launching Aplikasi Buku Digital</string>
+    <string name="judul_berita6">Pameran produk sains dan teknologi pancasila</string>
+
+    <string name="isi_berita1">Helooo, ada kabar baik nih pendaftaran PMB TA 2018/2019, sudah dibuka loh. Pendaftaran hanya membuka 1 gelombang. Ayo segera daftarkan diri kalian untuk menjadi akakom muda. Ada banyak diskon SPA dan beasiswa menarik loh, untuk info lebih detail silahkan cek website pmb.akakom.ac.id</string>
+    <string name="isi_berita2">Perwakilan dari Mahasiswa STMIK AKAKOM Yogyakarta melaksanakan Upacara dalam rangka memperingati Hari Kesetiakawanan Nasional, yang diselenggarakan dari Dinas Sosial pada hari Jumat, 14 Desember 2017.</string>
+    <string name="isi_berita3">Kunjungan Industri SMK Budi Utomo Jombang ke STMIK AKAKOM Yogyakarta, Selasa (12/12/2017). Kunjungan industri ini dihadiri sebanyak 85peserta yang berasal dari jurusan teknik komputer dan jaringan.</string>
+    <string name="isi_berita4">Selamat kepada tim Rackspira telah berhasil menjadi juara 1 dalam elinfo competition 2017. Tim rackspira membuat aplikasi e-penting (electronic personal accounting) yang merupakan aplikasi untuk mengelola data keuangan berbasis mobile.</string>
+    <string name="isi_berita5">Launching Aplikasi Buku Digital yang diselenggarakan oleh Perpustakaan STMIK AKAKOM, Kamis (23/11/2017) di Ruang Presentasi AKAKOM. Kegiatan ini merupakan pengenalan aplikasi buku digital akakom bekerjasama dengan PT Enam Kubuku Indonesia.</string>
+    <string name="isi_berita6">Pameran produk sains dan teknologi pancasila dari stand STMIK AKAKOM Yogyakarta, yg dilaksanakan dari tanggal 4 - 6 Oktober 2017, pukul 09.00-21.00 wib, di GOR Universitas Negeri Yogyakarta. Pada pameran ini, menampilkan hasil karya dan produk dari mahasiswa Akakom.</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="title_activity_main2">Main2Activity</string>
+    <string name="title_home">Home</string>
+    <string name="title_dashboard">Dashboard</string>
+    <string name="title_notifications">Notifications</string>
+</resources>

@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:showIn="navigation_view">
+
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/nav_beranda"
+            android:icon="@drawable/ic_beranda"
+            android:title="Beranda" />
+        <item
+            android:id="@+id/nav_profile"
+            android:icon="@drawable/ic_profile"
+            android:title="Profile" />
+        <item
+            android:id="@+id/nav_jurusan"
+            android:icon="@drawable/ic_jurusan"
+            android:title="Jurusan" />
+    </group>
+
+    <item android:title="Feedback">
+        <menu>
+            <item
+                android:id="@+id/nav_feedback"
+                android:icon="@drawable/ic_feedback"
+                android:title="Feedback" />
+        </menu>
+    </item>
+    <item android:title="Sosial Media">
+        <menu>
+            <item
+                android:id="@+id/nav_instagram"
+                android:icon="@drawable/ic_instagram"
+                android:title="Instagram" />
+            <item
+                android:id="@+id/nav_facebook"
+                android:icon="@drawable/ic_facebook"
+                android:title="Facebook" />
+            <item
+                android:id="@+id/nav_twitter"
+                android:icon="@drawable/ic_twitter"
+                android:title="Twitter" />
+        </menu>
+    </item>
+
+</menu>
